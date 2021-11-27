@@ -3,5 +3,5 @@ Laboratory works for M&amp;M MSA at ITMO
 
 # Authors
 
-Maxim Ryazanov, J4133c
+Maxim Ryazanov, J4133c  
 Petr Shevchenko, J4134c
